@@ -1,0 +1,113 @@
+﻿.lineone {
+    height: 20px;
+    border: 1px solid white;
+}
+
+.tc {
+    color: black;
+}
+
+.fonti {
+    font-size: 12px;
+}
+
+.tex-dec {
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.bg-me {
+    background-color: #0c65ed;
+}
+div.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    background-color: white;
+}
+.text-colour {
+    color: white;
+}
+
+open-sans {
+    font-family: "Open Sans", sans-serif;
+}
+
+.font-size {
+    font-size: 14px;
+}
+
+.COLOR {
+    color: #1A1A1A;
+}
+
+.navi {
+    position: fixed;
+    top: 0;
+    background-color: white;
+    width: 100%;
+    transition: top 0.3s;
+}
+
+hr {
+    width: 20%;
+    border: 3px solid #0c65ed;
+}
+
+.image {
+    width: 100%;
+    height: 900px;
+}
+
+.bg-image {
+    background-image: url('image/rtr.png');
+    height: 450px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.mask {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 400px;
+}
+
+.fot {
+    font-size: 30px;
+    color: #0c65ed;
+}
+
+.inpu {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-color: black;
+    border-radius: 0;
+    width: 100%;
+}
+
+    .inpu:hover {
+        color: #0c65ed;
+    }
+
+.inp:hover {
+    color: #0c65ed;
+    cursor: pointer;
+}
+
+.overly {
+    position: absolute;
+    bottom: 280px;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.btn-light:hover {
+    background-color: #0c65ed;
+    border: none;
+}
+
