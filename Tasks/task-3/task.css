@@ -1,0 +1,192 @@
+﻿body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Tajawal', sans-serif;
+}
+
+p, a, span, div {
+    font-size: 1.25rem
+}
+
+ul {
+    list-style: none;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+    /* a:active{} */
+    /* a:visited{} */
+    a:hover {
+    }
+
+img {
+    max-width: 100%;
+}
+
+.text-gold {
+    color: #D4A750;
+}
+
+.text-dark {
+    color: #000000;
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-gold {
+    background-color: #D4A750;
+}
+
+.bg-dark {
+    background-color: black;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.py-1 {
+    padding: 1% 0;
+}
+
+#logo {
+    width: 4.5rem;
+}
+
+.active {
+    color: #D4A750;
+}
+.nav-items {
+    width: 40%;
+    align-self: center;
+}
+
+    .nav-items ul {
+        width: 100%
+    }
+
+.drop-down {
+    display: none;
+}
+.parent {
+    height: 50rem;
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(image/center.jpg);
+    background-size: cover;
+    position: relative;
+}
+.parent:hover {
+    transform: scale(1.2);
+    transition: all 1s;
+}
+.overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: black;
+    opacity: 0.4;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    padding: 250px;
+    margin: 50px;
+}
+.vid{
+    padding:10%;
+}
+.te{font-size:16px;
+    padding:6%;
+    margin:3%;
+    text-align:left;
+    justify-content:center;
+}
+.comp{
+    display:flex;
+    flex-direction:row;
+}
+h1 {
+    text-align: center;
+    color: #D4A750;
+}
+.our {
+    background-color: #e5dfe0;
+}
+.one{
+    width:30%;
+    height:400px;
+    text-align:center;
+    margin:70px;
+    border:1px solid black;
+}
+.two {
+    width: 30%;
+    height: 500px;
+    text-align: center;
+    border: 1px solid black;
+    margin:30px;
+}
+.three {
+    width: 30%;
+    height: 600px;
+    text-align:center;
+    border: 1px solid black;
+}
+.lar{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    margin:30px;
+    padding:20px;
+}
+.n-one{
+    width:30%;
+    height:600px;
+    border:1px solid black;
+    margin:40px;
+    text-align:center;
+}
+.n-two {
+    width: 30%;
+    height: 500px;
+    border: 1px solid black;
+    margin: 60px;
+    text-align:center;
+}
+.eno{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+
+}
