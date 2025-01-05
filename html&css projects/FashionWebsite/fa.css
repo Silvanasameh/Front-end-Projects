@@ -1,0 +1,83 @@
+﻿.rufina{font-family:"Rufina";}
+.poppins{font-family:"poppins";}
+.bg-me { background: #C2EFD4;}
+.font-color {color: #224F34;}
+.small {color: #267D49;}
+.bg-bu {  background-color: background: #224F34;}
+.font-s{font-size:70px}
+.font-ss{font-size:20px;}
+.roboto-slap{font-family:"roboto slap";}
+.fonto{font-size:64px;}
+.img {
+    height: 400px;
+    width: 310px;
+}
+.wid{width:350px;}
+.w-t{width:50px;}
+.tex-color {color: #373737;}
+.icon { color: #e69b00;}
+.bar-col {color: #454545}
+.pro-img{width :80%;
+         height:300px;
+}
+.wid-2{width:300px;
+       height:
+}
+.marg{margin:90px;}
+.w-i{width:5px;}
+.card-p{width:70%;
+        height:400px;
+}
+.ig-car{width:50%;
+        height:400px;
+}
+.ig-ca{width:140%;
+      height:400px;
+      padding:40px;
+}
+.offer {
+    margin: 40px;
+    padding: 70px;
+}
+.bto{width:82px;
+     height:80px;
+     background-color:white;
+     border-radius:none;
+}
+.feed{margin-top:80px;
+      padding:60px;
+}
+.coma{width:20px;
+      height:15px;
+      font-size:30px;
+}
+.nav-icon-1 {
+    height: 40px;
+    width: 40px;
+    background-color: #FFFFFF;
+    margin:20px;
+    font-size:25px;
+}
+.nav-icon-2 {
+    height: 40px;
+    width: 40px;
+    background-color:  #C2EFD4;
+    margin:20px;
+    font-size:25px;
+}
+.bg-f{background-color:#224F34;}
+.tex-co{color:white;}
+::placeholder{
+    color:white;
+    padding:10px;
+}
+.line{
+    border: 1px solid #A3F3BE;
+    width: 40%;
+    
+    background-color:#a3f3be;
+    margin:20px;
+}
+.tem {
+    width: 50px;
+}
