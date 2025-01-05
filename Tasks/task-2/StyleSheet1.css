@@ -1,0 +1,168 @@
+﻿body {
+    background-color: white;
+}
+.header {
+    background-color: black;
+    height: 50px;
+    color: white;
+    font-size: 30px;
+}
+ .header i {
+ color: forestgreen;
+
+ }
+
+  .header a {
+   color: white;
+    font-size: 40px;
+
+  }
+
+  .header a1 {
+   color: forestgreen;
+    font-size: 30px;
+    }
+
+.button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+}
+nav {
+    padding: 10px; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo-1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333; /* Replace with the logo color from the image */
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    text-align:center;
+    margin: 0;
+    padding: 0;
+    background-color:white;
+    height:50px;
+    width:40%;
+    border-radius:25px;
+}
+
+    .nav-links li {
+        margin: 20px;
+        font-size:20px;
+    }
+
+    .nav-links a {
+        text-decoration: none;
+        color: #333;
+    }
+
+.search .demo {
+    background-color: black;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius:20px;
+}
+.icon {
+    display: flex;
+    align-items: flex-end;
+}
+.huge{
+    display:flex;
+    flex-direction:row;
+    justify-items:center;
+}
+.big {
+    padding: 2%;
+    margin: 80px;
+    background-color: #b8f1de;
+    height: 500px;
+    width: 25%;
+    border-radius: 15px;
+}
+
+.small {
+    border: dashed;
+    border-color: gray;
+    height: 450px;
+    width: 80%;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+h1 {
+    margin: 30px;
+}
+
+.small p {
+    margin: 30px;
+}
+
+i {
+    margin: 1px;
+}
+
+.icon {
+    margin: 30px
+}
+
+hr {
+    border-top: 1px dotted gray;
+    width: 80%;
+}
+
+img {
+    width: 20%;
+    margin: 30px;
+}
+
+.im {
+    display: flex;
+    flex-direction: row;
+}
+
+.new img {
+    width: 80%;
+    border-radius: 15px;
+    align-items: center;
+}
+h2{
+    font-size:15px;
+    text-align:center;
+}
+h6{
+    color:gray;
+    text-align:center;
+}
+.butto {
+    background-color: white;
+    border: 2px solid greenyellow;
+    border-radius: 30px;
+    color: greenyellow;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+}
+.eno{
+    display:flex;
+    flex-direction:row;
+}
+
